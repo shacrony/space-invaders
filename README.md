@@ -11,3 +11,11 @@ Space Invaders é um jogo simples, baseado em grid, no qual você, como atirador
 Neste repositorio, estarei colocando um foco extra em loops e classLists em JavaScript. Se você quiser aprender a usar esses loops e listas de classes de maneira eficaz, dê uma olhada no meu código.
 
 
+Também vamos ver:
+
+* for loops
+* addEventListener
+* classList
+* document.querySelector
+* Timeout
+* switch case
